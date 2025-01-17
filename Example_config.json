@@ -1,0 +1,8 @@
+{
+  "bot_id": "Discord Bot ID (example: 123456789012345678)",
+  "server_id": "Discord Server ID (example: 123456789012345678)",
+  "channels": {
+    "welcome": "Server's Welcome Channel ID (example: 123456789012345678)",
+    "membersCount": "Server's Members Count Channel ID (example: 123456789012345678)"
+  }
+}
